@@ -1,2 +1,2 @@
 # sam-code
-This is a sample of code..
+We create new code...
